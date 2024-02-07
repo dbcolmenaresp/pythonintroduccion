@@ -5,15 +5,17 @@ Actualmente estoy incursionando en el interesante mundo de la programación en e
 
 https://www.python.org/
 
-En primer lugar indicar que mi interes se centra en la gran cantidad de aplicaciones que se le pueden dar a este interesante y versatil lenguaje
+Python es un lenguaje de programación de código abierto, creado por Guido van Rossum, caracterizado por ser un lenguaje de programación de alto nivel, dinamico, interpretado, multiplataforma, de propósito general que ha ganado mucha popularidad por su versatilidad y numerosas librerías que permiten su uso en una gran cantidad de areas.
 
-Aplicaciones de escritorio
+En primer lugar indicar que mi interés se centra en la gran cantidad de aplicaciones que se le pueden dar a este interesante y versátil lenguaje
 
-Aplicaciones en entorno web
+- Aplicaciones de escritorio
 
-Aplicaciones de análisis de datos
+- Aplicaciones en entorno web
 
-Aplicaciones para la seguridad informática
+- Aplicaciones de análisis de datos
+
+- Aplicaciones para la seguridad informática
 
 Además de un largo etcétera.
 
@@ -26,4 +28,8 @@ Adicionalmente el lenguaje de programación Python es considerado como un lengua
 La característica anterior se debe a que este lenguaje de programación es interpretado, esto quiere decir que a medida que se va interpretando, se va ejecutando una instrucción a la vez, sin necesidad de traducirlo a un lenguaje de bajo nivel para su posterior ejecución como ocurre con los lenguajes de programación compilados como el lenguaje C o C++
 
 Por último podemos considerar que este lenguaje de programación es de fácil aprendizaje, lo cual indica que por su facilidad de uso puede ser utilizado para el aprendizaje y no se debe perder el tiempo en consideraciones extras de sintaxis.
+
+A continuación pasamos a tomar en consideración las razones por las cuales se selecciona Python como lenguaje de programación, en primer lugar, como deciamos, es un buen primer lenguaje de programación en virtud de su facilidad de uso y su baja exigencia en cuanto a consideraciones de sintaxis, lo cual nos permite mantener el foco en el aprendizaje del mismo y en el trabajo que se desarrolla con el. Esto permite crear código legible y fácil de entender, en un lenguaje que se asemeja al lenguaje natural en el idioma inglés.
+
+Este lenguaje de programación tiene una gran cantidad de bibliotecas que facilitan el desarrollo de programas de diferente naturaleza, tal como aplicaciones con interfaz gráfica de escritorio, aplicaciones web, librerías matemáticas muy ponentes y varias librerías para el uso de este lenguaje de programación en aplicaciones avanzadas de ciencias.
 
