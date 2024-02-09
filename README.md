@@ -33,3 +33,10 @@ A continuación pasamos a tomar en consideración las razones por las cuales se 
 
 Este lenguaje de programación tiene una gran cantidad de bibliotecas que facilitan el desarrollo de programas de diferente naturaleza, tal como aplicaciones con interfaz gráfica de escritorio, aplicaciones web, librerías matemáticas muy ponentes y varias librerías para el uso de este lenguaje de programación en aplicaciones avanzadas de ciencias.
 
+La versatilidad y potencia que caracterizan al lenguaje de programación Python se deben por un lado a la sintaxis simple e intuitiva que deriva en gran medida del lenguaje ABC, un lenguaje de programación desarrollado en la década de 1980 para el aprendizaje de la programación, proyecto en el que participó el creador de Python, estas características permiten que se reduzca la inversión necesaria para su aprendizaje y uso.
+
+Por otro lado, Python también se creó para resolver problemas reales y presenta una amplia variedad de características de lenguajes de programación como C++, Java, Modula-3 y Scheme.
+
+Por las razones antes expuestas, el lenguaje de programación Python resulta muy atractivo para los desarrolladores profesionales de software, científicos, investigadores y educadores.
+
+Adicionalmente el intérprete de programación Python fue desarrollado siguiendo la filosofía de desarrollo de software libre, la cual permite compartir y modificar el código fuente, además tiene versiones para la plataforma GNU Linux, Microsoft Windows, Macintosh y otros, lo que permite su ejecución en una gran variedad de entornos.
